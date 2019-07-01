@@ -1,0 +1,9 @@
+.message {
+    border: 2px solid black;
+    text-align: center;
+    margin: 1px;
+}
+
+header {
+    text-align: center;
+}
